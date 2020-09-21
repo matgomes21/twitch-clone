@@ -11,7 +11,6 @@ export const Wrapper = styled.View`
 
 export const Heading = styled.Text`
   color: ${colors.purple};
-  font-family: roboto;
-  font-weight: 500;
+  font-family: Roboto-Medium;
   font-size: 30px;
 `;
