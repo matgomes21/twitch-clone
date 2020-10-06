@@ -1,6 +1,8 @@
 import React from 'react';
 
-import streamThumb from '../../../assets/images/stream_thumbnail.jpg';
+import streamThumb from '../../../assets/images/stream_screen.png';
+import profilePicture from '../../../assets/images/profile_miranha.jpg';
+
 import {
   List,
   StreamContainer,
@@ -24,11 +26,11 @@ const StreamList: React.FC = () => {
       <StreamColumn>
         <StreamRow>
           <StreamHeader>
-            <StreamAvatar />
+            <StreamAvatar source={profilePicture} />
             <StreamUsername numberOfLines={1}>MatolaLol</StreamUsername>
           </StreamHeader>
           <StreamDescription numberOfLines={1}>
-            Front-end com Next.js
+            Front-end com ReactNative
           </StreamDescription>
 
           <StreamCategory numberOfLines={1}>Science & Tecnology</StreamCategory>

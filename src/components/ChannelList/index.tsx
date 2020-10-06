@@ -1,5 +1,6 @@
 import React from 'react';
-import { Text } from 'react-native';
+
+import rocketProfile from '../../../assets/images/rocketseat_avatar.jpg';
 
 import {
   List,
@@ -17,7 +18,7 @@ const ChannelList: React.FC = () => {
   const ChannelItem = () => (
     <ChannelContainer>
       <LeftSide>
-        <Avatar />
+        <Avatar source={rocketProfile} />
         <Column>
           <Username>rocketseat_oficial</Username>
           <Info>77 new videos</Info>
