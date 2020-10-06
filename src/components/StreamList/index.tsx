@@ -31,7 +31,7 @@ const StreamList: React.FC = () => {
             Front-end com Next.js
           </StreamDescription>
 
-          <StreamCategory numberOfLines={1}>Science e Tecnology</StreamCategory>
+          <StreamCategory numberOfLines={1}>Science & Tecnology</StreamCategory>
         </StreamRow>
 
         <TagRow>
