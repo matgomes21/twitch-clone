@@ -1,23 +1,23 @@
 <h1 align="center">
-  <img src="./.github/twitch-icon.webp" width=80px />
+  <img alt="TwitchTV" src="./.github/twitch-icon.webp" width=80px />
 
   UI Clone - TwitchTV Mobile
 </h1>
 
 <p align="center">
-  <a href="https://ww.linkedin.com/in/matgomes21/">
+  <a href="https://www.linkedin.com/in/matgomes21/">
     <img alt="Mateus Gomes" src="https://img.shields.io/badge/-Mateus%20Gomes-blue?style=flat&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="" >
+  <a href="https://reactnative.dev/" >
     <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react&logoColor=white" />
   </a>
-  <a href="" >
+  <a href="https://www.typescriptlang.org/" >
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white" />
   </a>
-  <a href="" >
+  <a href="https://developer.android.com/studio" >
     <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-g?style=flat&logo=android-studio&logoColor=white" />
   </a>
-  <a href="" >
+  <a href="https://styled-components.com/" >
     <img alt="Styled Components" src="https://img.shields.io/badge/-Styled%20Components-ff69b4?style=flat&logo=styled-components&logoColor=white" />
   </a>
 </p>
