@@ -31,9 +31,9 @@
 ## Screenshots
 
 <p align="center" >
-  <img src="./.github/screen1.png" />
+  <img src="./.github/screen1.png" width=400px />
   &nbsp&nbsp&nbsp
-  <img src="./.github/screen2.png" />
+  <img src="./.github/screen2.png" width=400px />
 </p>
 
 ## Dependencies
