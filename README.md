@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="TwitchTV" src="./.github/twitch-icon.webp" width=80px />
+  <img alt="TwitchTV" src="./.github/twitch-icon.webp" width=140px />
 
   UI Clone - TwitchTV Mobile
 </h1>
