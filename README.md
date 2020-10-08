@@ -31,9 +31,9 @@
 ## Screenshots
 
 <p align="center" >
-  <img src="./.github/screen1.png" width=200px />
+  <img src="./.github/screen1.png" />
   &nbsp&nbsp&nbsp
-  <img src="./.github/screen2.png" width=200px />
+  <img src="./.github/screen2.png" />
 </p>
 
 ## Dependencies
@@ -64,7 +64,6 @@ Emulate the application with Android Studio
 ```bash
 $ yarn android
 ```
-<br><br>
 
 ---
 <p align="center">
