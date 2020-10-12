@@ -33,7 +33,7 @@
 <p align="center" >
   <img src="./.github/screen1.png" width=400px />
   &nbsp&nbsp&nbsp
-  <img src="./.github/screen2.png" width=00px />
+  <img src="./.github/screen2.png" width=400px />
 </p>
 
 ## Dependências
