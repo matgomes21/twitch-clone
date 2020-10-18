@@ -5,6 +5,11 @@
 </h1>
 
 <p align="center">
+  <a href="https://github.com/matgomes21/twitch-clone/blob/master/READMEpt.md">Português</a>&nbsp&nbsp&nbsp&nbsp
+  <a href="https://github.com/matgomes21/twitch-clone/blob/master/README.md">English</a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/matgomes21/">
     <img alt="Mateus Gomes" src="https://img.shields.io/badge/-Mateus%20Gomes-blue?style=flat&logo=Linkedin&logoColor=white" />
   </a>
